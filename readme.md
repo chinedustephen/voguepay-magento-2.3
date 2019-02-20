@@ -56,7 +56,7 @@ Configuration can be done using the Administrator section of your Magento store.
 
 ### Suggestions / Contributions
 
-For issues and feature request, [click here](https://github.com/bosunolanrewaju/magento-rave/issues).
+For issues and feature request, [click here](https://github.com/chinedustephen/voguepay-magento-2.3/issues).
 To contribute, fork the repo, add your changes and modifications then create a pull request.
 
 
