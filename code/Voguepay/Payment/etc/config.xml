@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Copyright © 2018 Voguepay All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+    <default>
+        <payment>
+
+            <voguepay_payment_creditcard_jp>
+                <active>0</active>
+                <title>Voguepay</title>
+                <order_status>pending_payment</order_status>
+                <instructions></instructions>
+                <payment_action>order</payment_action>
+                <model>Voguepay\Payment\Model\Paymentmethod\Creditcardjp</model>
+                <group>voguepay_payment</group>
+                
+            </voguepay_payment_creditcard_jp>
+            
+        </payment>
+    </default>
+</config>
