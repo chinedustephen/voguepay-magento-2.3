@@ -1,4 +1,4 @@
-# Magento 2.2 Voguepay Payment Gateway
+# Magento 2.3 Voguepay Payment Gateway
 
  - **Contributors:** stephen nkwocha
  - **Tags:** voguepay, magento 2, payment gateway, credit card, debit card, nigeria, international, mastercard, visa
